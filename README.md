@@ -11,7 +11,7 @@ Para facilitar a escrita dos artigos, este projeto já possui testes automatizad
 aa
 ## Como rodar
 
-- Clonar este projeto
+- Clonar este prjeto
 - No diretório `google-test-example/` executar o comando `bundle install`
 - Executar todos os testes de *interface* com o comando `bundle exec cucumber`
 - Executar análise estática do código com o comando `rubocop`
